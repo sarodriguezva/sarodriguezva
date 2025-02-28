@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Software & Cloud Engineer @ IBM | 🚀 Passionate about Technology & AI<br>🎓 Systems and Computing Engineer @ Universidad Nacional de Colombia<br>☁️ AWS Certified Cloud Practitioner | Experienced in DevOps, Cloud, Web & Mobile Development<br>🛠️ Skilled in Java, C++, Python, SQL/NoSQL, T3 Stack, Spring, Linux, and more<br>🎯 I love solving complex problems, modernizing software, and mentoring future developers<br>💡 Always learning, building, and sharing knowledge!
+# 💫 Hi 👋, I'm Santiago!
+💻 **Software & Cloud Engineer** @ IBM | 🚀 Passionate about **Technology & AI**<br>🎓 **Systems and Computing Engineer** @ Universidad Nacional de Colombia<br>☁️ **AWS Certified Cloud Practitioner** | Experienced in **DevOps, Cloud, Web & Mobile Development**<br>🛠️ Skilled in **Java, C++, Python, SQL/NoSQL, T3 Stack, Spring, Linux**, and more<br>🎯 I love **solving complex problems, modernizing software, and mentoring future developers**<br>💡 **_Always learning, building, and sharing knowledge_**!
 
 
 ## 🌐 Socials:
