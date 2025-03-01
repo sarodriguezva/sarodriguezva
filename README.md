@@ -45,3 +45,4 @@
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sarodriguezva) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarodriguezva&label=Profile%20views&color=blue&style=for-the-badge" alt="sarodriguezva" /> </p>
