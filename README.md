@@ -43,18 +43,5 @@
   </a>
 </p>
 
-<!--
-## 🌐 Socials:
-<a href="https://linkedin.com/in/sarodriguezva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarodriguezva" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19235754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19235754" height="30" width="40" /></a>
-<a href="https://fb.com/sarodriguezva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarodriguezva" height="30" width="40" /></a>
-<a href="https://instagram.com/cooldkind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cooldkind" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cooldkindoficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cooldkindoficial" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cooldkind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cooldkind" height="30" width="40" /></a><br><br>
--->
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sarodriguezva) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
