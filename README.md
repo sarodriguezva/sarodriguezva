@@ -13,9 +13,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarodriguezva&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sarodriguezva&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sarodriguezva&theme=algolia&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarodriguezva&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarodriguezva&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" height="120"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sarodriguezva&theme=algolia&hide_border=false" height="120"/>
 </p>
  
 ## 🌐 Socials:
