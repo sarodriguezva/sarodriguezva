@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="banner" width="1200" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2llNzgyMjNoam9oeHphcno5MW9rNDJnOXA5MjN3NmthZzg1YWpqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGEcRueonvnBRqLPRu/giphy.webp">
+  <img alt="banner" width="1200" height="250" src="https://github.com/sarodriguezva/sarodriguezva/blob/main/tenor.gif">
 </p>
 
 # 💫 Hi 👋, I'm Santiago!
