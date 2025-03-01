@@ -20,17 +20,8 @@
  
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/sarodriguezva">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/cooldkind">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/sarodriguezva">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/19235754">
-    <img src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@cooldkindOficial">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -38,8 +29,17 @@
   <a href="mailto:sarodriguezva22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://stackoverflow.com/users/19235754">
+    <img src="https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
   <a href="https://codeforces.com/profile/cooldkind">
     <img src="https://img.shields.io/badge/Codeforces-%230074D9.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/sarodriguezva">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/cooldkind">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
