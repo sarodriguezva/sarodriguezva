@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Hi 👋, I'm Santiago!
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2llNzgyMjNoam9oeHphcno5MW9rNDJnOXA5MjN3NmthZzg1YWpqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGEcRueonvnBRqLPRu/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kydXJ0em43dXR1aDM4andkNTluaWFqM3kxN2hibnI4eGVweThscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 💻 **Software & Cloud Engineer** @ IBM | 🚀 Passionate about **Technology & AI**<br>🎓 **Systems and Computing Engineer** @ Universidad Nacional de Colombia<br>☁️ **AWS Certified Cloud Practitioner** | Experienced in **DevOps, Cloud, Web & Mobile Development**<br>🛠️ Skilled in **Java, C++, Python, SQL/NoSQL, T3 Stack, Spring, Linux**, and more<br>🎯 I love **solving complex problems, modernizing software, and mentoring future developers**<br>💡 **_Always learning, building, and sharing knowledge_**!
 
